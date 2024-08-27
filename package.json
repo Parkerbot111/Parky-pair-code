@@ -29,6 +29,13 @@
     "path": "^0.12.7",
     "pino": "^8.1.0",
     "qrcode-terminal": "^0.12.0"
+    "qrcode": "^1.5.3",
+    "awesome-phonenumber": "^2.64.0",
+    "pino": "^8.1.0",
+    "phone" : "3.1.30",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.1",
+    "path": "^0.12.7"
   },
   "bugs": {
     "url": "https://github.com/Jeanparker100/Parky-pair-code/issues"
