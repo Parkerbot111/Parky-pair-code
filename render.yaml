@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: my-app
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    region: oregon # ou votre région préférée
+    branches:
+      - main # ou votre branche de déploiement
