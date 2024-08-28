@@ -1,1 +1,0 @@
-echo Salut Jean Parker
